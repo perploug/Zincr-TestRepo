@@ -1,0 +1,1 @@
+[{"module":"files-contents","level":"low","offender":"transformer/test_task.py","description":"Potential password in file","mitigation":"Check line number: 165"}]
