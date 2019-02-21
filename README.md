@@ -1,6 +1,6 @@
 # code-reviewer
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that An Umbraco Code Review Bot
+> A testing repo for fun and profit
 
 ## Setup
 
